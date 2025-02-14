@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=justt1n&show_icons=true&theme=vue-dark)
 -->
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justt1n&theme=vue-dark&layout=pie&hide=javascript,HTML,blade,shaderLab,&exclude_repo=SampleSDK,fishdom5,firstLaravel,hihi,PriceCompare,php_cfshop,PlatformGame)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=justt1n)](https://git.io/streak-stats)
