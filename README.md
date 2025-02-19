@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 -->
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justt1n&theme=vue-dark&layout=pie&hide=javascript,HTML,blade,shaderLab,&exclude_repo=SampleSDK,fishdom5,firstLaravel,hihi,PriceCompare,php_cfshop,PlatformGame)](https://github.com/anuraghazra/github-readme-stats)
  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=justt1n&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jusst1n&theme=tokyonight-duo)](https://git.io/streak-stats)
